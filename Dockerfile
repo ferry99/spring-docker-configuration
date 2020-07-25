@@ -14,7 +14,7 @@ EXPOSE 8083
 
 ## java -jar /opt/app/app.jar
 ## necessary when not using docker compose
-# ENTRYPOINT ["java","-jar","test-0.0.1-SNAPSHOT.jar"]
+ENTRYPOINT ["java","-jar","test-0.0.1-SNAPSHOT.jar"]
 
 # Overide application.properties profiles With Dockerfile Commandline
 # ENTRYPOINT ["java","-jar","test-0.0.1-SNAPSHOT.jar","--spring.profiles.active=uat","--spring.datasource.url=jdbc:postgresql://bookstore_db_uat:5432/postgres","--spring.datasource.password=654321"]

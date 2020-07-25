@@ -1,0 +1,5 @@
+2020-07-25 13:10:28 INFO Starting TestApplication v0.0.1-SNAPSHOT on DESKTOP-F5PNO4S with PID 6460 (C:\Users\Ferry\Documents\workspace-spring-tool-suite-4-4.6.0.RELEASE\test\target\test-0.0.1-SNAPSHOT.jar started by Ferry in C:\Users\Ferry\Documents\workspace-spring-tool-suite-4-4.6.0.RELEASE\test)
+2020-07-25 13:10:28 DEBUG Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 13:10:28 INFO The following profiles are active: dev
+2020-07-25 13:10:39 INFO Started TestApplication in 13.201 seconds (JVM running for 14.91)
+2020-07-25 13:11:13 INFO Hello from Logback {}

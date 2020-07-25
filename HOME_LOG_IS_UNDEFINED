@@ -1,0 +1,7 @@
+2020-07-25 12:09:25,532 INFO com.example.test.TestApplication [main] Starting TestApplication on DESKTOP-F5PNO4S with PID 1920 (C:\Users\Ferry\Documents\workspace-spring-tool-suite-4-4.6.0.RELEASE\test\target\classes started by Ferry in C:\Users\Ferry\Documents\workspace-spring-tool-suite-4-4.6.0.RELEASE\test)
+2020-07-25 12:09:25,535 INFO com.example.test.TestApplication [main] The following profiles are active: dev
+2020-07-25 12:09:29,384 INFO com.example.test.TestApplication [main] Started TestApplication in 4.358 seconds (JVM running for 5.78)
+2020-07-25 12:09:52,946 INFO com.example.test.controller.BookController [http-nio-8083-exec-2] Hello from Logback {}
+2020-07-25 12:10:39,396 INFO com.example.test.TestApplication [main] Starting TestApplication on DESKTOP-F5PNO4S with PID 4376 (C:\Users\Ferry\Documents\workspace-spring-tool-suite-4-4.6.0.RELEASE\test\target\classes started by Ferry in C:\Users\Ferry\Documents\workspace-spring-tool-suite-4-4.6.0.RELEASE\test)
+2020-07-25 12:10:39,400 INFO com.example.test.TestApplication [main] The following profiles are active: dev
+2020-07-25 12:10:43,653 INFO com.example.test.TestApplication [main] Started TestApplication in 4.722 seconds (JVM running for 6.177)
